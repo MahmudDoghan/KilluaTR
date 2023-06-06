@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KilluaTR
+- 👋 Hi, I’m Mahud
 - 👀 I’m interested in programing
 - 🌱 I’m currently learning c#
 - 💞️ I’m looking to collaborate on web development and mobile aplucation
