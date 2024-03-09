@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Mahmud
-- 👀 I’m interested in programing
+- 👀 I’m interested in web development
 - 🌱 I’m currently learning C#
 - 📫 İf you want to reach me Instagram : mahmut_dogan__
